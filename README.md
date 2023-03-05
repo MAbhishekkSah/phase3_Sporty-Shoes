@@ -55,3 +55,4 @@ Simplilearn project.
 ### Number of sprints = 2 sprints (6 Day for 1 Sprint)
 
 ### Flow of the program
+![alt text](https://github.com/prataps135/Sporty-Shoes/blob/main/flow%20chart/Flow%20Chart.jpg)
