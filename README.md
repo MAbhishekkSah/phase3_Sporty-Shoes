@@ -1,14 +1,14 @@
 # Sporty-Shoes
 Simplilearn project.
 
-### Project name = Sport Shoes Ecommerce
+# Project name = Sport Shoes Ecommerce
 
-### Developer deatils :-
-  name = Pratap Singh Sisodia
+# Developer deatils :-
+  Name:- Abhishek Kumar Sah
   
-  email = prataps135@gmail.com
+  email = abhinishu001@gmail.com
 
-### Core concepts used in the project:
+# Core concepts used in the project:
 • Object-Oriented: used to create and model objects for users and their credentials.
 
 • Databases: used to store and retrieve data.
@@ -36,8 +36,6 @@ Simplilearn project.
 
 	JPA: To manage the operations for the application.
 
-	Lombok: It is the tool of the java library that was used to generate code for minimizing the unused code.
-
 	Rest-API: To create the API methods and to check the response of the object entities.
 
 	Spring Tool Suite: To write and execute the code.
@@ -53,6 +51,3 @@ Simplilearn project.
 	The user can login into his account to see the what type of shoes available in the products page he can also filter the product based on the price. The user didn’t have permission to create a product, update and delete the product. The user can have suggestions about product type.
 
 ### Number of sprints = 2 sprints (6 Day for 1 Sprint)
-
-### Flow of the program
-![alt text](https://github.com/prataps135/Sporty-Shoes/blob/main/flow%20chart/Flow%20Chart.jpg)
